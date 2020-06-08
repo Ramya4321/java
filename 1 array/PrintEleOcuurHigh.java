@@ -3,7 +3,7 @@ has occurred highest number of time.*/
 import java.lang.*;
 import java.io.*;
 import java.util.*;
-class Week3a
+class PrintEleOcuurHigh
 {
 	public static void main(String args[])
 	{
